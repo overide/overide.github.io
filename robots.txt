@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://overide.github.io/sitemap-index.xml
+Host: https://overide.github.io
